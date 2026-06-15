@@ -1,5 +1,26 @@
 # 💫 About Me:
-I'm a passionate AI developer and computer vision enthusiast with a focus on prompt engineering. Currently, I'm honing my skills at Digimark, where I'm actively involved in creating innovative AI solutions. As a young software engineering student, I'm eager to explore the limitless possibilities of AI and its applications.
+I'm a Senior Software Engineer and AI Specialist with over 10 years of professional experience in software development. I started my journey with C++ and have spent the last 5+ years building advanced AI solutions across Computer Vision, Machine Learning, Deep Learning, LLM applications, Agentic AI systems, LangGraph workflows, and Neo4j knowledge graphs.
+
+As a Full-Stack Developer and AI Architect, I specialize in transforming ideas into scalable products—from initial concept and architecture to deployment, growth, and acquisition of 10,000+ active users. My expertise spans backend and frontend development, AI infrastructure, cloud deployment, data engineering, and product scaling.
+
+I am the founder and creator of several AI-driven platforms, including omidgpt.ir, aimatin.com, and jozveh-ai.com, where I have led the entire product lifecycle from ideation to production. I have also collaborated with organizations and companies such as Digimark AI, Kakh Sorkh, and various technology-focused businesses to design and implement AI-powered solutions.
+
+My industrial experience includes developing AI systems for large-scale organizations and enterprises, including projects in the automotive sector with Iran Khodro and intelligent solutions for industrial livestock management systems.
+
+Beyond industry work, I have actively mentored Master's and PhD students in software engineering, AI, and research programming long before the emergence of modern AI coding assistants. I enjoy solving complex technical challenges, designing scalable architectures, and bridging the gap between cutting-edge AI research and real-world business applications.
+
+My core expertise includes:
+• Artificial Intelligence & Agentic AI
+• Computer Vision
+• Machine Learning & Deep Learning
+• LangGraph & Multi-Agent Systems
+• Neo4j Knowledge Graphs
+• Full-Stack Development
+• Product Architecture & Scalability
+• AI Automation & Workflow Design
+• LLM Applications & Prompt Engineering
+• Startup Building & Product Growth
+
 
 
 ##  Socials:
